@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 750c1a3be155e414ebc0ec0b88dc2e46
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pen Story
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2d8e409e440684449aed9641117048e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
